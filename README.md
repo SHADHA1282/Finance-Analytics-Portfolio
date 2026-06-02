@@ -22,8 +22,7 @@ An in-depth corporate financial analysis model evaluating revenue growth pattern
 ### 3. Big 4 Global Revenue Analysis Dashboard
 A macro-level dashboard tracking and comparing revenue streams, regional performance, and growth trajectory across top-tier accounting and advisory environments.
 * 🛠️ **Tools Used:** Power BI, Revenue Modeling, Regional Performance Tracking
-* 🔗 [Click here to view this project dashboard/files](PASTE_YOUR_BIG4_PROJECT_LINK_HERE)
-
+* 🔗 [Click here to view this project dashboard/files](Big4_Revenue_Dashboards.pbip)
 ### 4. IT Sector Comparison Dashboard
 A comprehensive benchmarking model evaluating and comparing key financial indicators, overhead ratios, and profit margins across major IT service firms.
 * 🛠️ **Tools Used:** Financial Analysis, Trend Analytics, Data Visualization
