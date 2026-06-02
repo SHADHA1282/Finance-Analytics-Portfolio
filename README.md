@@ -26,8 +26,7 @@ A macro-level dashboard tracking and comparing revenue streams, regional perform
 ### 4. IT Sector Comparison Dashboard
 A comprehensive benchmarking model evaluating and comparing key financial indicators, overhead ratios, and profit margins across major IT service firms.
 * 🛠️ **Tools Used:** Financial Analysis, Trend Analytics, Data Visualization
-* 🔗 [Click here to view this project dashboard/files](PASTE_YOUR_IT_SECTOR_LINK_HERE)
-
+* 🔗 [Click here to view this project dashboard/files](IT_Sector_Dashboard.pbip)
 ---
 
 ## 💡 Technical Skills & Core Competencies
