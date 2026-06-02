@@ -17,7 +17,7 @@ A dynamic financial tracker built in Google Sheets/Excel featuring automated var
 ### 2. Infosys Financial Performance Dashboard
 An in-depth corporate financial analysis model evaluating revenue growth patterns, profitability ratios, and operational health metrics.
 * 🛠️ **Tools Used:** Power BI, Financial Analysis, Corporate Reporting
-* 🔗 [Click here to view this project dashboard/files](PASTE_YOUR_INFOSYS_PROJECT_LINK_HERE)
+* 🔗 [Click here to view this project dashboard/files](Infosys_Dashboard.p.pbip)
 
 ### 3. Big 4 Global Revenue Analysis Dashboard
 A macro-level dashboard tracking and comparing revenue streams, regional performance, and growth trajectory across top-tier accounting and advisory environments.
