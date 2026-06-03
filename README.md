@@ -27,14 +27,38 @@ A macro-level dashboard tracking and comparing revenue streams, regional perform
 A comprehensive benchmarking model evaluating and comparing key financial indicators, overhead ratios, and profit margins across major IT service firms.
 * 🛠️ **Tools Used:** Financial Analysis, Trend Analytics, Data Visualization
 * 🔗 [Click here to view this project dashboard/files](IT_Sector_Dashboard.pbip)
-* ## 5. Sales Performance Dashboard 2024
+* ### 5. Sales Performance Dashboard 2024
 
 An interactive Power BI dashboard designed to monitor sales performance, compare actual sales against targets, and analyze regional and product-level trends for data-driven decision-making.
 
-- 🛠 **Tools Used:** Power BI, DAX, Data Modeling, Sales Analytics
-- 📊 **Key Features:** KPI Tracking, Sales vs Target Analysis, Regional Performance Monitoring, Product Sales Insights
-- 🔗 [Click here to view this project dashboard](files/Sales_Dashboard.pbix)
-* 
+### 🛠 Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+
+### 📊 Key Features
+- KPI Cards for Sales, Units, Targets, and Achievement Count
+- Monthly Sales Trend Analysis
+- Sales vs Target Comparison
+- Regional Sales Distribution
+- Product Performance Analysis
+- Interactive Region Slicer
+
+### 💡 Key Insights
+- Total Sales reached 628K against a target of 600K.
+- Product C generated the highest revenue.
+- East region contributed the largest share of sales.
+- Sales showed a declining trend throughout the year.
+
+### 📷 Dashboard Preview
+
+![Sales Performance Dashboard](sales_dashboard.png)
+
+### 🔗 Project File
+[View Power BI Dashboard](files/Sales_Dashboard.pbix)
+
+---
 ---
 
 ## 💡 Technical Skills & Core Competencies
