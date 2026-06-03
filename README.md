@@ -27,6 +27,8 @@ A macro-level dashboard tracking and comparing revenue streams, regional perform
 A comprehensive benchmarking model evaluating and comparing key financial indicators, overhead ratios, and profit margins across major IT service firms.
 * 🛠️ **Tools Used:** Financial Analysis, Trend Analytics, Data Visualization
 * 🔗 [Click here to view this project dashboard/files](IT_Sector_Dashboard.pbip)
+* ### 5. Sales Performance Dashboard 2024
+* 
 ---
 
 ## 💡 Technical Skills & Core Competencies
@@ -41,6 +43,8 @@ A comprehensive benchmarking model evaluating and comparing key financial indica
 * **Advanced Excel & Google Sheets:** Master of pivot tables, complex logical functions (`XLOOKUP`, `INDEX/MATCH`, `IFS`), conditional formatting layouts, and data cleanup.
 * **Business Intelligence (Power BI):** Transforming complex transactional datasets into clean, executive-ready KPI dashboards and interactive visuals.
 * **Python for Finance (Learning in Progress):** Transitioning toward programming to automate repetitive accounting workflows, data ingestion, and full-dataset audit scripting.
+
+* 
 
 ---
 
