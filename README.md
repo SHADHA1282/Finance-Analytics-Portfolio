@@ -1,83 +1,103 @@
-# Finance Analytics Portfolio
-### Shadha Sherin | ACCA Candidate | Finance & Data Analytics Professional
+# 💼 Finance Analytics Portfolio
+### Shadha Sherin | ACCA Candidate | Finance & Data Analytics
 
-Welcome to my portfolio! Here, I showcase automated financial models, interactive business intelligence dashboards, and data-driven solutions tailored for modern corporate finance, audit, and tax environments.
+![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)
+![PowerBI](https://img.shields.io/badge/Power%20BI-Expert-yellow)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![ACCA](https://img.shields.io/badge/ACCA-8%20Papers%20Completed-blue)
+
+---
+
+## 👩‍💼 About Me
+
+Finance Graduate and ACCA Candidate with expertise in financial analysis, data visualization, and business intelligence. I combine accounting knowledge with data analytics to deliver professional financial dashboards and reports.
+
+- 🎓 BCom Graduate — Pondicherry University
+- 📊 ACCA Candidate — 8 Papers Completed
+- 💼 Virtual Experience: PwC | EY | Fidelity Investments
+- 🌍 Open to Remote Opportunities
 
 ---
 
 ## 📊 Projects
 
-### 1. Automated Personal Budget Tracker & KPI Dashboard
-A dynamic financial tracker built in Google Sheets/Excel featuring automated variance logic, financial currency formatting, and an interactive budget-vs-actual visual analysis dashboard.
-* 🛠️ **Tools Used:** Google Sheets, Conditional Logic, Dynamic Charts, Financial Modeling
-* 📊 **Visual Preview:**
-![Budget Tracker Preview](budget_tracker.png)
-* 🔗 [Click here to interact with the Live Google Sheet Template](https://docs.google.com/spreadsheets/d/1fpVp2OH-YPPC-Q-McDocbLPVnal3i5bpmwjBSRzOyco/edit?usp=sharing)
-
-### 2. Infosys Financial Performance Dashboard
-An in-depth corporate financial analysis model evaluating revenue growth patterns, profitability ratios, and operational health metrics.
-* 🛠️ **Tools Used:** Power BI, Financial Analysis, Corporate Reporting
-* 🔗 [Click here to view this project dashboard/files](Infosys_Dashboard.p.pbip)
-
-### 3. Big 4 Global Revenue Analysis Dashboard
-A macro-level dashboard tracking and comparing revenue streams, regional performance, and growth trajectory across top-tier accounting and advisory environments.
-* 🛠️ **Tools Used:** Power BI, Revenue Modeling, Regional Performance Tracking
-* 🔗 [Click here to view this project dashboard/files](Big4_Revenue_Dashboards.pbip)
-### 4. IT Sector Comparison Dashboard
-A comprehensive benchmarking model evaluating and comparing key financial indicators, overhead ratios, and profit margins across major IT service firms.
-* 🛠️ **Tools Used:** Financial Analysis, Trend Analytics, Data Visualization
-* 🔗 [Click here to view this project dashboard/files](IT_Sector_Dashboard.pbip)
-* ### 5. Sales Performance Dashboard 2024
-
-An interactive Power BI dashboard designed to monitor sales performance, compare actual sales against targets, and analyze regional and product-level trends for data-driven decision-making.
-
-### 🛠 Tools Used
-- Power BI
-- DAX
-- Data Modeling
-- Data Visualization
-
-### 📊 Key Features
-- KPI Cards for Sales, Units, Targets, and Achievement Count
-- Monthly Sales Trend Analysis
-- Sales vs Target Comparison
-- Regional Sales Distribution
-- Product Performance Analysis
-- Interactive Region Slicer
-
-### 💡 Key Insights
-- Total Sales reached 628K against a target of 600K.
-- Product C generated the highest revenue.
-- East region contributed the largest share of sales.
-- Sales showed a declining trend throughout the year.
-
-### 📷 Dashboard Preview
-
-![Sales Performance Dashboard](sales_dashboard.png)
-
-### 🔗 Project File
-[View Power BI Dashboard](files/Sales_Dashboard.pbix)
-
----
----
-
-## 💡 Technical Skills & Core Competencies
-
-### 🎯 Finance, Accounting & Audit
-* **Financial Modeling & Forecasting:** Building dynamic, scalable budget and forecasting templates to drive business decisions.
-* **Variance & Performance Management:** Analyzing budget-vs-actual metrics to track operational spend and revenue trends.
-* **Core Accounting & Payroll:** Extensive practical background managing vendor payments, bank reconciliations, payroll, and inventory functions.
-* **Compliance & Audit Quality:** Strong academic and professional foundation in international financial reporting, tax, and core auditing principles.
-
-### 💻 Data Analytics & Technology
-* **Advanced Excel & Google Sheets:** Master of pivot tables, complex logical functions (`XLOOKUP`, `INDEX/MATCH`, `IFS`), conditional formatting layouts, and data cleanup.
-* **Business Intelligence (Power BI):** Transforming complex transactional datasets into clean, executive-ready KPI dashboards and interactive visuals.
-* **Python for Finance (Learning in Progress):** Transitioning toward programming to automate repetitive accounting workflows, data ingestion, and full-dataset audit scripting.
-
-* 
+### 1. Infosys Financial Performance Dashboard
+![Infosys Dashboard](Infosys_Financial_Perfromance_Dashboard.png)
+- 📌 5-year financial analysis of Infosys Ltd
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Revenue, Net Profit, EPS, Operating Profit
+- 🔗 [View File](Infosys_Dashboard.p.pbip)
 
 ---
 
-## 📬 Contact & Connect
-* **LinkedIn:** [linkedin.com/in/sherin77](https://linkedin.com/in/sherin77)
-* **Email:** shadhasherin77@gmail.com
+### 2. Big 4 Global Revenue Analysis Dashboard
+![Big4 Dashboard](Big4_Global_Revenue_Dashboard.png)
+- 📌 Comparison of Deloitte, PwC, EY, KPMG (2020-2024)
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Global Revenue, Market Share, Service Lines
+- 🔗 [View File](Big4_Revenue_Dashboards.pbip)
+
+---
+
+### 3. IT Sector Comparison Dashboard
+![IT Sector Dashboard](IT_Sector_Comparison_Dashboard.png)
+- 📌 Infosys vs TCS vs Wipro comparison
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Revenue, Net Profit, Employee Growth
+- 🔗 [View File](IT_Sector_Dashboard.pbip)
+
+---
+
+### 4. Sales Performance Dashboard
+![Sales Dashboard](Sales_Performance_Dashboard.png)
+- 📌 Regional and product sales analysis
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Sales, Units, Targets, Regional Performance
+- 🔗 [View File](Sales_Dashboard.pbix)
+
+---
+
+### 5. Expense Analysis Dashboard
+![Expense Dashboard](Expense_Analysis_Dashboard.png)
+- 📌 Department-wise expense tracking
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Total Expenses, Budget vs Actual, Department Analysis
+- 🔗 [View File](Expense_Analysis.pbix)
+
+---
+
+### 6. Business KPI Dashboard
+![KPI Dashboard](Business_KPI_Dashboard.png)
+- 📌 Complete business performance metrics
+- 🛠️ Tools: Power BI, Excel, DAX
+- 📈 KPIs: Revenue, Profit, Customer Growth, Satisfaction
+- 🔗 [View File](Business_KPI_Dashboard.pbix)
+
+---
+
+### 7. Personal Budget Tracker
+![Budget Tracker](Budget_Tracker_Analysis.png)
+- 📌 Automated budget vs actual tracker
+- 🛠️ Tools: Google Sheets, Excel
+- 📈 Features: Variance analysis, color coding, charts
+- 🔗 [View Live Sheet](https://docs.google.com/spreadsheets/d/1fpVp2OH-YPPC-Q-McDocbLPVnal3i5bpmwjBSRzOyco/edit?usp=sharing)
+
+---
+
+## 🛠️ Skills
+
+| Category | Skills |
+|----------|--------|
+| Finance | Financial Reporting, Auditing, Tax, Budgeting |
+| Analytics | Power BI, DAX, Data Visualization |
+| Tools | Excel, Google Sheets, Tally, QuickBooks |
+| Certifications | ACCA, Microsoft Dynamics 365 |
+| Learning | Python, SQL, AI Automation |
+
+---
+
+## 📬 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/sherin77](https://linkedin.com/in/sherin77)
+- 📧 Email: shadhasherin77@gmail.com
+- 🌍 Location: India | Open to Remote & Ireland Opportunities
