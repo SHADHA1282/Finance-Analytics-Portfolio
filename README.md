@@ -85,7 +85,9 @@ Finance Graduate and ACCA Candidate with expertise in financial analysis, data v
 ---
 
 ### 8. Financial Forecasting Model
-![Forecast](Financial_Forecast.png)
+![Historical](Forecast_Historical.png)
+![Projected](Forecast_Projected.png)
+![Combined](Forecast_Combined.png)
 - 📌 5-year revenue forecast with historical analysis
 - 🛠️ Tools: Google Sheets, Excel, Financial Modeling
 - 📈 Features: Automated formulas, Growth projections
