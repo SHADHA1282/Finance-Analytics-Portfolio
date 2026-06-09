@@ -93,6 +93,15 @@ Finance Graduate and ACCA Candidate with expertise in financial analysis, data v
 - 📈 Features: Automated formulas, Growth projections
 - 🔗 [View File](Financial_Forecast.xlsx)
 
+  ---
+  
+### 9. SQL Financial Database Project
+![SQL Project](SQL_Finance_Project.png)
+- 📌 Financial database with 3 tables
+- 🛠️ Tools: SQL, SQLite
+- 📈 Features: JOIN, GROUP BY, Profit Margin
+- 🔗 [View File](Finance_Database_Project.sql)
+
 ## 🛠️ Skills
 
 | Category | Skills |
