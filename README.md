@@ -102,6 +102,16 @@ Finance Graduate and ACCA Candidate with expertise in financial analysis, data v
 - 📈 Features: JOIN, GROUP BY, Profit Margin
 - 🔗 [View File](Finance_Database_Project.sql)
 
+- ---
+
+### 10. Banking & Finance SQL Project
+![SQL Procedure](Banking_SQL_Procedure.png)
+![SQL Results](Banking_SQL_Results.png)
+- 📌 Banking transactions, loan analysis & financial statements database
+- 🛠️ Tools: SQL, MySQL 8.0, DB Fiddle, OneCompiler
+- 📈 Features: JOINs, CTEs, Window Functions, Views, Stored Procedures
+- 🔗 [View File](Banking-Finance.SQL)
+
 ## 🛠️ Skills
 
 | Category | Skills |
@@ -110,8 +120,7 @@ Finance Graduate and ACCA Candidate with expertise in financial analysis, data v
 | Analytics | Power BI, DAX, Data Visualization |
 | Tools | Excel, Google Sheets, Tally, QuickBooks |
 | Certifications | ACCA, Microsoft Dynamics 365 |
-| Learning | Python, SQL, AI Automation |
-
+| Learning | Python, SQL (MySQL), AI Automation |
 ---
 
 ## 📬 Contact
