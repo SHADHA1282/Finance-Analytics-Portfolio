@@ -2,69 +2,150 @@
 
 # Hi, I'm Shadha Sherin 👋
 
-**Finance Data Analyst | ACCA Candidate | B.Com Graduate**
+## Finance Data Analyst | ACCA Candidate | B.Com Graduate
 
-I specialize in transforming financial and business data into meaningful insights using **Power BI, SQL, Excel, and Financial Analysis**.
+Welcome to my Finance Analytics Portfolio!
 
-My background in Accounting and Finance combined with Data Analytics allows me to build dashboards, automate reporting, analyze business performance, and support data-driven decision-making.
+I combine accounting knowledge with data analytics to transform financial and business data into actionable insights. My work focuses on building interactive dashboards, analyzing financial performance, automating reports, and supporting data-driven decision-making using modern analytics tools.
 
-🎯 **Currently seeking opportunities as:**
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Bachelor of Commerce (B.Com) – Pondicherry University
+- 📚 ACCA Candidate (8 Papers Completed)
+- 📊 Passionate about Finance Analytics, Business Intelligence, and Data Visualization
+- 💼 Virtual Experience with PwC, EY, KPMG, and Fidelity Investments
+- 🌍 Open to Relocation (India, Middle East & Europe)
+
+---
+
+# 🎯 Career Objective
+
+I'm seeking entry-level opportunities where I can combine my finance background with data analytics to solve business problems, improve reporting processes, and deliver meaningful insights.
+
+**Target Roles**
+
 - Data Analyst
 - Financial Analyst
 - Business Analyst
 - Reporting Analyst
 - FP&A Analyst
-
----
-
-# 👩‍💻 About Me
-
-- 🎓 Bachelor of Commerce – Pondicherry University
-- 📚 ACCA Candidate (8 Papers Completed)
-- 📊 Strong interest in Financial Analytics & Business Intelligence
-- 💼 Virtual Experience – PwC | EY | KPMG | Fidelity Investments
-- 🌍 Open to Relocation (Europe & Middle East)
+- Business Intelligence Analyst
 
 ---
 
 # 🛠 Technical Skills
 
-### Data Analytics
+### 📊 Data Analytics
 - Power BI
-- DAX
 - SQL (MySQL)
-- Excel (Advanced)
+- Microsoft Excel (Advanced)
+- Power Query
+- DAX
 - Google Sheets
 
-### Finance
-
-- Financial Reporting
+### 💰 Finance
 - Financial Statement Analysis
-- Budgeting
-- Forecasting
+- Financial Reporting
+- Budgeting & Forecasting
 - Variance Analysis
-- Auditing
+- KPI Development
+- Audit & Assurance
 
-### Business Intelligence
-
-- KPI Dashboard Design
-- Interactive Reporting
+### 📈 Business Intelligence
+- Dashboard Development
+- KPI Reporting
 - Data Visualization
+- Executive Reporting
 - Business Performance Analysis
 
-### ERP & Accounting Software
-
+### 💻 Tools
+- Power BI
+- Excel
+- SQL
 - Microsoft Dynamics 365
 - QuickBooks
 - Tally ERP
 
-### Currently Learning
-
-- Python (Pandas)
+### 🌱 Currently Learning
+- Python for Data Analytics
 - AI Automation
 - Advanced SQL
 
 ---
+
+# 📂 Portfolio Projects
+
+This repository showcases projects demonstrating practical applications of Finance, Data Analytics, and Business Intelligence.
+
+## 📊 Power BI Projects
+
+- 📈 Infosys Financial Performance Dashboard
+- 🌍 Big 4 Global Revenue Analysis
+- 💻 IT Sector Financial Comparison Dashboard
+- 📊 Sales Performance Dashboard
+- 💰 Expense Analysis Dashboard
+- 📉 Business KPI Dashboard
+
+---
+
+## 🗄 SQL Projects
+
+- Banking & Finance Database
+- Financial Database Analysis
+- SQL Query Practice
+- Data Modeling & Business Insights
+
+---
+
+## 📈 Excel Projects
+
+- Financial Forecasting Model
+- Personal Budget Tracker
+- Business Reporting & Analysis
+
+---
+
+# 🚀 Current Learning Journey
+
+✅ Advanced Excel
+
+✅ Power BI
+
+✅ Financial Analysis
+
+✅ Dashboard Design
+
+🔄 SQL (Advanced)
+
+🔄 Python
+
+⏳ AI Automation
+
+---
+
+# 🎯 Career Goal
+
+To become a Finance Data Analyst specializing in Financial Analytics and Business Intelligence, helping organizations make data-driven decisions through analytics, automation, and insightful reporting.
+
+My long-term goal is to build an international career in Europe within Finance Analytics, FP&A, or Business Intelligence.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/sherin77
+
+📂 GitHub: https://github.com/SHADHA1282
+
+📧 Email: shadhasherin77@gmail.com
+
+🌍 Based in India | Open to Relocation
+
+---
+
+⭐ Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
 
 # 📊 Portfolio Projects
 
