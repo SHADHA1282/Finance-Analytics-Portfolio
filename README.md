@@ -1,130 +1,285 @@
 # 💼 Finance Analytics Portfolio
-### Shadha Sherin | ACCA Candidate | Finance & Data Analytics
 
-![GitHub](https://img.shields.io/badge/Status-Active-brightgreen)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Expert-yellow)
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![ACCA](https://img.shields.io/badge/ACCA-8%20Papers%20Completed-blue)
+# Hi, I'm Shadha Sherin 👋
 
----
+**Finance Data Analyst | ACCA Candidate | B.Com Graduate**
 
-## 👩‍💼 About Me
+I specialize in transforming financial and business data into meaningful insights using **Power BI, SQL, Excel, and Financial Analysis**.
 
-Finance Graduate and ACCA Candidate with expertise in financial analysis, data visualization, and business intelligence. I combine accounting knowledge with data analytics to deliver professional financial dashboards and reports.
+My background in Accounting and Finance combined with Data Analytics allows me to build dashboards, automate reporting, analyze business performance, and support data-driven decision-making.
 
-- 🎓 BCom Graduate — Pondicherry University
-- 📊 ACCA Candidate — 8 Papers Completed
-- 💼 Virtual Experience: PwC | EY | Fidelity Investments
-- 🌍 Open to Remote Opportunities
+🎯 **Currently seeking opportunities as:**
+- Data Analyst
+- Financial Analyst
+- Business Analyst
+- Reporting Analyst
+- FP&A Analyst
 
 ---
 
-## 📊 Projects
+# 👩‍💻 About Me
 
-### 1. Infosys Financial Performance Dashboard
+- 🎓 Bachelor of Commerce – Pondicherry University
+- 📚 ACCA Candidate (8 Papers Completed)
+- 📊 Strong interest in Financial Analytics & Business Intelligence
+- 💼 Virtual Experience – PwC | EY | KPMG | Fidelity Investments
+- 🌍 Open to Relocation (Europe & Middle East)
+
+---
+
+# 🛠 Technical Skills
+
+### Data Analytics
+- Power BI
+- DAX
+- SQL (MySQL)
+- Excel (Advanced)
+- Google Sheets
+
+### Finance
+
+- Financial Reporting
+- Financial Statement Analysis
+- Budgeting
+- Forecasting
+- Variance Analysis
+- Auditing
+
+### Business Intelligence
+
+- KPI Dashboard Design
+- Interactive Reporting
+- Data Visualization
+- Business Performance Analysis
+
+### ERP & Accounting Software
+
+- Microsoft Dynamics 365
+- QuickBooks
+- Tally ERP
+
+### Currently Learning
+
+- Python (Pandas)
+- AI Automation
+- Advanced SQL
+
+---
+
+# 📊 Portfolio Projects
+
+---
+
+## 📈 1. Infosys Financial Performance Dashboard
+
+### Business Problem
+
+Analyze Infosys' financial performance over five years to identify growth trends, profitability, and operational efficiency.
+
+### Tools
+
+Power BI • Excel • DAX
+
+### Key KPIs
+
+- Revenue
+- Net Profit
+- Operating Profit
+- EPS
+- Profit Margin
+
+### Skills Demonstrated
+
+- Financial Statement Analysis
+- KPI Dashboard Design
+- Data Visualization
+- Financial Reporting
+
+📷 Dashboard
+
 ![Infosys Dashboard](Infosys_Financial_Perfromance_Dashboard.png)
-- 📌 5-year financial analysis of Infosys Ltd
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Revenue, Net Profit, EPS, Operating Profit
-- 🔗 [View File](Infosys_Dashboard.p.pbip)
+
+🔗 **Project:** [View Dashboard](Infosys_Dashboard.p.pbip)
 
 ---
 
-### 2. Big 4 Global Revenue Analysis Dashboard
+## 📊 2. Big 4 Global Revenue Analysis
+
+### Business Problem
+
+Compare Deloitte, PwC, EY and KPMG using publicly available financial data.
+
+### Tools
+
+Power BI • Excel • DAX
+
+### Key KPIs
+
+- Global Revenue
+- Market Share
+- Revenue Growth
+- Service Line Analysis
+
+### Skills Demonstrated
+
+- Competitive Analysis
+- Executive Reporting
+- Dashboard Design
+
+📷 Dashboard
+
 ![Big4 Dashboard](Big4_Global_Revenue_Dashboard.png)
-- 📌 Comparison of Deloitte, PwC, EY, KPMG (2020-2024)
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Global Revenue, Market Share, Service Lines
-- 🔗 [View File](Big4_Revenue_Dashboards.pbip)
+
+🔗 **Project:** [View Dashboard](Big4_Revenue_Dashboards.pbip)
 
 ---
 
-### 3. IT Sector Comparison Dashboard
-![IT Sector Dashboard](IT_Sector_Comparison_Dashboard.png)
-- 📌 Infosys vs TCS vs Wipro comparison
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Revenue, Net Profit, Employee Growth
-- 🔗 [View File](IT_Sector_Dashboard.pbip)
+## 📈 3. IT Sector Financial Comparison Dashboard
+
+Comparison of Infosys, TCS and Wipro using financial statements.
+
+**Tools**
+- Power BI
+- Excel
+- DAX
+
+**Highlights**
+
+- Revenue Growth
+- Net Profit
+- Employee Growth
+- Profitability Trends
 
 ---
 
-### 4. Sales Performance Dashboard
-![Sales Dashboard](Sales_Performance_Dashboard.png)
-- 📌 Regional and product sales analysis
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Sales, Units, Targets, Regional Performance
-- 🔗 [View File](Sales_Dashboard.pbix)
+## 📊 4. Sales Performance Dashboard
+
+Interactive dashboard for regional sales analysis.
+
+**KPIs**
+
+- Sales
+- Revenue
+- Units Sold
+- Target Achievement
+- Regional Performance
 
 ---
 
-### 5. Expense Analysis Dashboard
-![Expense Dashboard](Expense_Analysis_Dashboard.png)
-- 📌 Department-wise expense tracking
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Total Expenses, Budget vs Actual, Department Analysis
-- 🔗 [View File](Expense_Analysis.pbix)
+## 💰 5. Expense Analysis Dashboard
+
+Business expense monitoring dashboard.
+
+Highlights:
+
+- Budget vs Actual
+- Department Spending
+- Expense Trends
+- Variance Analysis
 
 ---
 
-### 6. Business KPI Dashboard
-![KPI Dashboard](Business_KPI_Dashboard.png)
-- 📌 Complete business performance metrics
-- 🛠️ Tools: Power BI, Excel, DAX
-- 📈 KPIs: Revenue, Profit, Customer Growth, Satisfaction
-- 🔗 [View File](Business_KPI_Dashboard.pbix)
+## 📈 6. Business KPI Dashboard
+
+Executive dashboard containing:
+
+- Revenue
+- Profit
+- Customer Growth
+- Customer Satisfaction
+- Business Performance
 
 ---
 
-### 7. Personal Budget Tracker
-![Budget Tracker](Budget_Tracker_Analysis.png)
-- 📌 Automated budget vs actual tracker
-- 🛠️ Tools: Google Sheets, Excel
-- 📈 Features: Variance analysis, color coding, charts
-- 🔗 [View Live Sheet](https://docs.google.com/spreadsheets/d/1fpVp2OH-YPPC-Q-McDocbLPVnal3i5bpmwjBSRzOyco/edit?usp=sharing)
+## 📊 7. Personal Budget Tracker
+
+Google Sheets financial planner featuring:
+
+- Budget vs Actual
+- Variance Analysis
+- Charts
+- Automated Calculations
+
+🔗 Live Demo
+
+[View Budget Tracker](https://docs.google.com/spreadsheets/d/1fpVp2OH-YPPC-Q-McDocbLPVnal3i5bpmwjBSRzOyco/edit?usp=sharing)
 
 ---
 
-### 8. Financial Forecasting Model
-![Historical](Historical_Forecast.png)
-![Projected](Financial_Forecast.png)
-![Combined](Combined_Forecast.png)
-- 📌 5-year revenue forecast with historical analysis
-- 🛠️ Tools: Google Sheets, Excel, Financial Modeling
-- 📈 Features: Automated formulas, Growth projections
-- 🔗 [View File](Financial_Forecast.xlsx)
+## 📉 8. Financial Forecasting Model
 
-  ---
-  
-### 9. SQL Financial Database Project
-![SQL Project](SQL_Finance_Project.png)
-- 📌 Financial database with 3 tables
-- 🛠️ Tools: SQL, SQLite
-- 📈 Features: JOIN, GROUP BY, Profit Margin
-- 🔗 [View File](Finance_Database_Project.sql)
+Five-year financial forecasting model.
 
-- ---
+Features
 
-### 10. Banking & Finance SQL Project
-![SQL Procedure](Banking_SQL_Procedure.png)
-![SQL Results](Banking_SQL_Results.png)
-- 📌 Banking transactions, loan analysis & financial statements database
-- 🛠️ Tools: SQL, MySQL 8.0, DB Fiddle, OneCompiler
-- 📈 Features: JOINs, CTEs, Window Functions, Views, Stored Procedures
-- 🔗 [View File](Banking-Finance.SQL)
+- Historical Analysis
+- Revenue Forecasting
+- Growth Assumptions
+- Financial Modeling
 
-## 🛠️ Skills
-
-| Category | Skills |
-|----------|--------|
-| Finance | Financial Reporting, Auditing, Tax, Budgeting |
-| Analytics | Power BI, DAX, Data Visualization |
-| Tools | Excel, Google Sheets, Tally, QuickBooks |
-| Certifications | ACCA, Microsoft Dynamics 365 |
-| Learning | Python, SQL (MySQL), AI Automation |
 ---
 
-## 📬 Contact
+## 🗄 9. SQL Finance Database
 
-- 💼 LinkedIn: [linkedin.com/in/sherin77](https://linkedin.com/in/sherin77)
-- 📧 Email: shadhasherin77@gmail.com
-- 🌍 Location: India | Open to Remote & Ireland Opportunities
+SQL database project using SQLite.
+
+Concepts Covered
+
+- Joins
+- GROUP BY
+- Aggregate Functions
+- Profit Margin Analysis
+
+---
+
+## 🏦 10. Banking & Finance SQL Project
+
+Advanced SQL project using MySQL.
+
+Topics Covered
+
+- INNER JOIN
+- LEFT JOIN
+- CTEs
+- Window Functions
+- Views
+- Stored Procedures
+- Banking Analytics
+
+---
+
+# 🚀 Current Learning Roadmap
+
+✅ Financial Accounting
+
+✅ Power BI
+
+✅ Excel
+
+✅ Dashboard Design
+
+✅ SQL Fundamentals
+
+🔄 Advanced SQL
+
+🔄 Python for Data Analytics
+
+⏳ AI Automation
+
+---
+
+# 🎯 Career Goal
+
+To become a Finance Data Analyst who bridges accounting and data analytics by building dashboards, automating reports, and delivering business insights. My long-term goal is to work in Europe within Financial Analytics or Business Intelligence.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn
+
+📧 Email: shadhasherin77@gmail.com
+
+🌍 Based in India | Open to Relocation (Europe & Middle East)
+
+⭐ If you found this portfolio useful, feel free to explore the projects and connect with me.
